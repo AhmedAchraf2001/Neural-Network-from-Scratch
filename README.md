@@ -1,1 +1,1 @@
-# Implementatoin of Simple Neural Network form Scratch
+#  Implementatoin of Simple Neural Network form Scratch
